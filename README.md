@@ -2,8 +2,8 @@
 
 
 - Engenheiro civil de formação.
-- Interesse na área de dados.
 - Apaixonado por tecnologia.
+- Interesse na área de dados.
 - Tenho me dedicado ao estudo da linguagem python para analise de dados, machine learning e cibersegurança. 
 
 ## Conecte-se comigo
