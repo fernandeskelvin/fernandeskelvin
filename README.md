@@ -23,5 +23,5 @@
 
 ## Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandeskelvin&repo=titanic-survival-prediction&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fernandeskelvin/analise-titanic-ml)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandeskelvin&repo=projeto-analise-dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fernandeskelvin/projeto-analise-dados)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandeskelvin&repo=titanic-survival-prediction&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fernandeskelvin/titanic-survival-prediction/blob/main/analise-titanic-ml.ipynb)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandeskelvin&repo=projeto-analise-dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fernandeskelvin/projeto-analise-dados/blob/main/projeto_analise_dados.ipynb)
